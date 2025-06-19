@@ -6,8 +6,8 @@
 🔭 I’m currently working on **[Vstream - Chat & Video Calling App](https://github.com/arunbharti-1/Vstream)**  
 🌱 I’m currently learning **WebRTC, MongoDB Aggregations, TUF Security**  
 💬 Ask me about **React, Node.js, MongoDB, Cybersecurity Tools**  
-📫 How to reach me: **arun@example.com**  
-🌐 Portfolio: [arunbharti.dev](https://your-portfolio.com)
+📫 How to reach me: **arun5272816@gmail.com**  
+<!--🌐 Portfolio: [arunbharti.dev](https://your-portfolio.com)-->
 
 ---
 
